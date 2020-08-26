@@ -1,3 +1,4 @@
+```
 ➜  .config pwd; tree -L 2
 /Users/v/.config
 .
@@ -22,3 +23,4 @@
 │   └── yarn.lock
 └── yarn
     └── global
+```
